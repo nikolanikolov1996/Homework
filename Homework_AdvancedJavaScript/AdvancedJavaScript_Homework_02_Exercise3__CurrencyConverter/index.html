@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <!-- Style.css -->
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Exercise 03 - Currency Converter</title>
+</head>
+
+<body>
+    <!-- BackgroundImg -->
+    <div id="backgroundImage"></div>
+    <!-- Main container -->
+    <div class="container">
+        <h1 class="text-center">CURRENCY CONVERTER</h1>
+        <h2 class="text-center"> EUR|DOL|MKD</h2>
+        <h3 id="h3Amount">AMOUNT</h3>
+        <div class="input-group mb-3" id="moneyInput">
+            <div class="input-group-prepend">
+                <span class="input-group-text">Insert Value:</span>
+            </div>
+            <input type="number" class="form-control" id="amountInput">
+        </div>
+        <h3 id="h3From">FROM</h3>
+        <div class="input-group mb-3" id="firstCurrencyDiv">
+            <select class="custom-select" id="fromInputCurr">
+                <option value="0" selected disabled>Choose</option>
+                <option value="0">EUR-€</option>
+                <option value="1">DOL-$</option>
+                <option value="2">MKD-ден</option>
+            </select>
+            <div class="input-group-append">
+                <label class="input-group-text" for="fromInputCurr">Currency</label>
+            </div>
+        </div>
+        <h3 id="h3To">TO</h3>
+        <div class="input-group mb-3" id="secondCurrencyDiv">
+            <select class="custom-select" id="toInputCurr">
+                <option value="0" selected disabled>Choose</option>
+                <option value="0">EUR-€</option>
+                <option value="1">DOL-$</option>
+                <option value="2">MKD-ден</option>
+            </select>
+            <div class="input-group-append">
+                <label class="input-group-text" for="toInputCurr">Currency</label>
+            </div>
+        </div>
+        <button type="button" id="convertBtn" class="btn btn-primary">CONVERT</button>
+        <div id="resultDiv">
+        </div>
+        <div id="eurCurrencyValues">
+            <h6>1 EUR = 61.94 MKD</h6>
+            <h6>1 EUR = 1.21 DOLLAR</h6>
+        </div>
+        <div id="dolCurrencyValues">
+            <h6>1 DOL = 0.82 EUR</h6>
+            <h6>1 DOL = 50.76 MKD</h6>
+        </div>
+        <div id="mkdCurrencyValues">
+            <h6>1 MKD = 0.020 DOLLAR</h6>
+            <h6>1 MKD = 0.016 EUR</h6>
+        </div>
+        <small><p>Created by Nikola Nikolov - SEDC 2021</p></small>
+    </div>
+    <!-- JQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <!-- Bootstrap js file -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+    <!-- JavaScript -->
+    <script src="./js/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: auto;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#backgroundImage{
+    background-image: url('../img/background-img.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0%;
+    opacity: 1;
+    z-index: -1;
+}
+
+
+
+.container{
+    border-radius: 3%;
+    box-shadow: -10px -7px 5px 2px lightskyblue;
+    background-color: lightgray;
+    position: relative;
+    border: 2px solid gray;
+    width: 45%;
+    height: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#moneyInput{
+    position: absolute;
+    width: 30%;
+    top: 40%;
+    left: 2%;
+}
+
+#firstCurrencyDiv {
+    position: absolute;
+    width: 20%;
+    top: 40%;
+    left: 35%;
+}
+
+#secondCurrencyDiv {
+    position: absolute;
+    width: 20%;
+    top: 40%;
+    left: 60%;
+}
+
+#convertBtn{
+    position: absolute;
+    right: 5%;
+    top: 40%
+}
+
+#resultDiv{
+    position: absolute;
+    top: 60%;
+    left: 3%;
+}
+
+h1{
+    color: gray;
+    position: absolute;
+    top: 5%;
+}
+
+h2{
+    color: gray;
+    position: absolute;
+    top: 13%;
+}
+
+
+#h3Amount{
+    color: darkgray;
+    position: absolute;
+    width: 30%;
+    top: 30%;
+    left: 10%;
+}
+
+#h3From {
+    color: darkgray;
+    position: absolute;
+    width: 20%;
+    top: 30%;
+    left: 40%;
+}
+
+#h3To {
+    color: darkgray;
+    position: absolute;
+    width: 20%;
+    top: 30%;
+    left: 67%;
+}
+
+#eurCurrencyValues{
+    border: 1px solid gray;
+    display: flex;
+    position: absolute;
+    color: gray;
+    width: 20%;
+    top: 75%;
+    left: 5%;
+}
+
+#dolCurrencyValues{
+    border: 1px solid gray;
+    display: flex;
+    position: absolute;
+    color: gray;
+    width: 20%;
+    top: 75%;
+    left: 15;
+}
+
+#mkdCurrencyValues{
+    border: 1px solid gray;
+    display: flex;
+    position: absolute;
+    color: gray;
+    width: 20%;
+    top: 75%;
+    left: 70%;
+}
+
+small{
+    position: absolute;
+    bottom: 0%;
+}
