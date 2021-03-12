@@ -169,7 +169,7 @@ sortAsc = (initialArray) => {
         if(firstUser.userId > secondUser.userId) {
             return 1;
         }
-        if(firstUser.userId > secondUser.userId) {
+        if(secondUser.userId > firstUser.userId)  {
             return -1;
         }
         return 0;
@@ -181,7 +181,7 @@ sortDesc = (initialArray) => {
         if(firstUser.userId < secondUser.userId) {
             return 1;
         }
-        if(firstUser.userId < secondUser.userId) {
+        if(secondUser.userId < firstUser.userId) {
             return -1;
         }
         return 0;
@@ -189,11 +189,19 @@ sortDesc = (initialArray) => {
 }
 
 async function fetchData(url) {
-    let response = await fetch(url);
-    let users = await response.json();
-    let mappedUsers = addUserId(users);
-    
-    printUserTable(mappedUsers, tableDiv);
+    try{
+        let response = await fetch(url);
+        if(response.status === 404) {
+            throw new Error(`${response.status} PAGE NOT FOUND!`)
+        } else {
+            let users = await response.json();
+            let mappedUsers = addUserId(users);
+            printUserTable(mappedUsers, tableDiv);
+        }
+    }
+    catch (error) {
+        alert(error.message);
+    }
 }
 
 
@@ -202,16 +210,12 @@ fetchBtn.addEventListener('click', function() {
     
 });
 
-
-
-
-
-
-
 sortAscBtn.addEventListener('click', function() {
     sortAsc(initArr);
+    printUserTable(initArr, tableDiv);
 });
 
 sortDescBtn.addEventListener('click', function() {
     sortDesc(initArr);
+    printUserTable(initArr, tableDiv);
 });
