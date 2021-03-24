@@ -12,6 +12,7 @@ namespace TrafficLight
             Console.WriteLine("READY");
             Console.BackgroundColor = ConsoleColor.Green;
             Console.WriteLine("GO");
+            Console.BackgroundColor = ConsoleColor.Black;
             Console.ReadLine();
         }
     }

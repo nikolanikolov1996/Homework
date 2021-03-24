@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TrafficLight",
+    "\\TrafficLight\\bin",
+    "\\TrafficLight\\bin\\Debug",
+    "\\TrafficLight\\bin\\Debug\\netcoreapp3.1"
+  ],
+  "SelectedNode": "\\TrafficLight\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
