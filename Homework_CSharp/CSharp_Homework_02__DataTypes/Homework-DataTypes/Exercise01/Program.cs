@@ -23,30 +23,28 @@ namespace Exercise01
 
             if (checkFirstNum && checkSecondNum)
             {
+                switch (operatorSign)
+                {
+                    case "+":
+                        operationResult = firstNum + secondNum;
+                        Console.WriteLine("The result is: " + operationResult);
+                        break;
+                    case "-":
+                        operationResult = firstNum - secondNum;
+                        Console.WriteLine("The result is: " + operationResult);
+                        break;
+                    case "*":
+                        operationResult = firstNum * secondNum;
+                        Console.WriteLine("The result is: " + operationResult);
+                        break;
+                    case "/":
+                        operationResult = firstNum / secondNum;
+                        Console.WriteLine("The result is: " + operationResult);
+                        break;
+                    default:
+                        Console.WriteLine("Something went wrong! Please try again!");
+                        break;
 
-                if (operatorSign == "+")
-                {
-                    operationResult = firstNum + secondNum;
-                    Console.WriteLine("The result is: " + operationResult);
-                }
-                else if (operatorSign == "-")
-                {
-                    operationResult = firstNum - secondNum;
-                    Console.WriteLine("The result is: " + operationResult);
-                }
-                else if (operatorSign == "*")
-                {
-                    operationResult = firstNum * secondNum;
-                    Console.WriteLine("The result is: " + operationResult);
-                }
-                else if (operatorSign == "/")
-                {
-                    operationResult = firstNum / secondNum;
-                    Console.WriteLine("The result is: " + operationResult);
-                }
-                else
-                {
-                    Console.WriteLine("Something went wrong! Please try again!");
                 }
             }
             else
