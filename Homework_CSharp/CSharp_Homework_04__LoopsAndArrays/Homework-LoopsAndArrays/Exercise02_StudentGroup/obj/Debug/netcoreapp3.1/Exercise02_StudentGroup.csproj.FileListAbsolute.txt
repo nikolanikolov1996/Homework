@@ -1,0 +1,13 @@
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\bin\Debug\netcoreapp3.1\Exercise02_StudentGroup.exe
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\bin\Debug\netcoreapp3.1\Exercise02_StudentGroup.deps.json
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\bin\Debug\netcoreapp3.1\Exercise02_StudentGroup.runtimeconfig.json
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\bin\Debug\netcoreapp3.1\Exercise02_StudentGroup.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\bin\Debug\netcoreapp3.1\Exercise02_StudentGroup.dll
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\bin\Debug\netcoreapp3.1\Exercise02_StudentGroup.pdb
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\obj\Debug\netcoreapp3.1\Exercise02_StudentGroup.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\obj\Debug\netcoreapp3.1\Exercise02_StudentGroup.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\obj\Debug\netcoreapp3.1\Exercise02_StudentGroup.AssemblyInfo.cs
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\obj\Debug\netcoreapp3.1\Exercise02_StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\obj\Debug\netcoreapp3.1\Exercise02_StudentGroup.dll
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\obj\Debug\netcoreapp3.1\Exercise02_StudentGroup.pdb
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise02_StudentGroup\obj\Debug\netcoreapp3.1\Exercise02_StudentGroup.genruntimeconfig.cache

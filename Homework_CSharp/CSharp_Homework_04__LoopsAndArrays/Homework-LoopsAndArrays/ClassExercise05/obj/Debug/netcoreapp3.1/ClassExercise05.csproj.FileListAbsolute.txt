@@ -1,0 +1,12 @@
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\ClassExercise05\bin\Debug\netcoreapp3.1\ClassExercise05.exe
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\ClassExercise05\bin\Debug\netcoreapp3.1\ClassExercise05.deps.json
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\ClassExercise05\bin\Debug\netcoreapp3.1\ClassExercise05.runtimeconfig.json
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\ClassExercise05\bin\Debug\netcoreapp3.1\ClassExercise05.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\ClassExercise05\bin\Debug\netcoreapp3.1\ClassExercise05.dll
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\ClassExercise05\bin\Debug\netcoreapp3.1\ClassExercise05.pdb
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\ClassExercise05\obj\Debug\netcoreapp3.1\ClassExercise05.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\ClassExercise05\obj\Debug\netcoreapp3.1\ClassExercise05.AssemblyInfo.cs
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\ClassExercise05\obj\Debug\netcoreapp3.1\ClassExercise05.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\ClassExercise05\obj\Debug\netcoreapp3.1\ClassExercise05.dll
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\ClassExercise05\obj\Debug\netcoreapp3.1\ClassExercise05.pdb
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\ClassExercise05\obj\Debug\netcoreapp3.1\ClassExercise05.genruntimeconfig.cache

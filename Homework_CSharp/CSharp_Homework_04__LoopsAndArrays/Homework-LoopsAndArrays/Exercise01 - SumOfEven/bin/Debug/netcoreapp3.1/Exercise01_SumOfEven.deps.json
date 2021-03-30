@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercise01_SumOfEven/1.0.0": {
+        "runtime": {
+          "Exercise01_SumOfEven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise01_SumOfEven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\bin\Debug\netcoreapp3.1\Exercise01_SumOfEven.exe
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\bin\Debug\netcoreapp3.1\Exercise01_SumOfEven.deps.json
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\bin\Debug\netcoreapp3.1\Exercise01_SumOfEven.runtimeconfig.json
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\bin\Debug\netcoreapp3.1\Exercise01_SumOfEven.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\bin\Debug\netcoreapp3.1\Exercise01_SumOfEven.dll
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\bin\Debug\netcoreapp3.1\Exercise01_SumOfEven.pdb
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\obj\Debug\netcoreapp3.1\Exercise01_SumOfEven.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\obj\Debug\netcoreapp3.1\Exercise01_SumOfEven.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\obj\Debug\netcoreapp3.1\Exercise01_SumOfEven.AssemblyInfo.cs
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\obj\Debug\netcoreapp3.1\Exercise01_SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\obj\Debug\netcoreapp3.1\Exercise01_SumOfEven.dll
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\obj\Debug\netcoreapp3.1\Exercise01_SumOfEven.pdb
+C:\Users\nikol\source\repos\Homework-LoopsAndArrays\Exercise01 - SumOfEven\obj\Debug\netcoreapp3.1\Exercise01_SumOfEven.genruntimeconfig.cache
