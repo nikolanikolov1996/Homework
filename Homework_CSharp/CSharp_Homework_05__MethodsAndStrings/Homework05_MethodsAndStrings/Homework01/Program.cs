@@ -6,6 +6,7 @@ namespace Homework01
     {
         static void Main(string[] args)
         {
+
             while (true)
             {
                 Console.Write("Enter your age if you want to convert your years to days: ");
@@ -31,3 +32,4 @@ namespace Homework01
         }
     }
 }
+

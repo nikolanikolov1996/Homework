@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\CSharp\\CSharp_Homework\\CSharp_Homework_05__MethodsAndStrings\\Homework05_MethodsAndStrings\\Exercise03\\Homework03.csproj",
+      "projectUniqueName": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\CSharp\\CSharp_Homework\\CSharp_Homework_05__MethodsAndStrings\\Homework05_MethodsAndStrings\\Homework03\\Homework03.csproj",
       "projectName": "Homework03",
-      "projectPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\CSharp\\CSharp_Homework\\CSharp_Homework_05__MethodsAndStrings\\Homework05_MethodsAndStrings\\Exercise03\\Homework03.csproj",
+      "projectPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\CSharp\\CSharp_Homework\\CSharp_Homework_05__MethodsAndStrings\\Homework05_MethodsAndStrings\\Homework03\\Homework03.csproj",
       "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\CSharp\\CSharp_Homework\\CSharp_Homework_05__MethodsAndStrings\\Homework05_MethodsAndStrings\\Exercise03\\obj\\",
+      "outputPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\CSharp\\CSharp_Homework\\CSharp_Homework_05__MethodsAndStrings\\Homework05_MethodsAndStrings\\Homework03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",

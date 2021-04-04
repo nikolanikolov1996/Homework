@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exercise03
+namespace Homework03
 {
     class Program
     {
@@ -47,6 +47,6 @@ namespace Exercise03
             }
             return numberOfPoints;
         }
-
     }
 }
+
