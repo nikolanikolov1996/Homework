@@ -1,0 +1,12 @@
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_05__MethodsAndStrings\Homework05_MethodsAndStrings\Homework02\bin\Debug\netcoreapp3.1\Homework02.exe
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_05__MethodsAndStrings\Homework05_MethodsAndStrings\Homework02\bin\Debug\netcoreapp3.1\Homework02.deps.json
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_05__MethodsAndStrings\Homework05_MethodsAndStrings\Homework02\bin\Debug\netcoreapp3.1\Homework02.runtimeconfig.json
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_05__MethodsAndStrings\Homework05_MethodsAndStrings\Homework02\bin\Debug\netcoreapp3.1\Homework02.runtimeconfig.dev.json
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_05__MethodsAndStrings\Homework05_MethodsAndStrings\Homework02\bin\Debug\netcoreapp3.1\Homework02.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_05__MethodsAndStrings\Homework05_MethodsAndStrings\Homework02\bin\Debug\netcoreapp3.1\Homework02.pdb
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_05__MethodsAndStrings\Homework05_MethodsAndStrings\Homework02\obj\Debug\netcoreapp3.1\Homework02.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_05__MethodsAndStrings\Homework05_MethodsAndStrings\Homework02\obj\Debug\netcoreapp3.1\Homework02.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_05__MethodsAndStrings\Homework05_MethodsAndStrings\Homework02\obj\Debug\netcoreapp3.1\Homework02.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_05__MethodsAndStrings\Homework05_MethodsAndStrings\Homework02\obj\Debug\netcoreapp3.1\Homework02.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_05__MethodsAndStrings\Homework05_MethodsAndStrings\Homework02\obj\Debug\netcoreapp3.1\Homework02.pdb
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_05__MethodsAndStrings\Homework05_MethodsAndStrings\Homework02\obj\Debug\netcoreapp3.1\Homework02.genruntimeconfig.cache
