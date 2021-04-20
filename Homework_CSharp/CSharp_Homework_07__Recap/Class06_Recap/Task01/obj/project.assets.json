@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\CSharp\\CSharp_ClassExercises\\CSharp_Class_06__Recap\\Class06_Recap\\Task01\\Task01.csproj",
+      "projectUniqueName": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\HomeworkSEDC2021\\Homework_CSharp\\CSharp_Homework_07__Recap\\Class06_Recap\\Task01\\Task01.csproj",
       "projectName": "Task01",
-      "projectPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\CSharp\\CSharp_ClassExercises\\CSharp_Class_06__Recap\\Class06_Recap\\Task01\\Task01.csproj",
+      "projectPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\HomeworkSEDC2021\\Homework_CSharp\\CSharp_Homework_07__Recap\\Class06_Recap\\Task01\\Task01.csproj",
       "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\CSharp\\CSharp_ClassExercises\\CSharp_Class_06__Recap\\Class06_Recap\\Task01\\obj\\",
+      "outputPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\HomeworkSEDC2021\\Homework_CSharp\\CSharp_Homework_07__Recap\\Class06_Recap\\Task01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",

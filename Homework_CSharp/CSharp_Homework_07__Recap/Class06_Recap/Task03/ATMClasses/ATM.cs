@@ -118,7 +118,7 @@ namespace Task03.ATMClasses
             if (checkFirstName && checkLastName)
             {
                 Console.WriteLine("3. Please enter you card number");
-                Console.Write("(12-digits) format (####-####-####-####): ");
+                Console.Write("(16-digits) format (####-####-####-####): ");
                 string[] filterCardNo = Console.ReadLine().Split("-");
                 string cardNoInp = String.Join("", filterCardNo);
                 bool checkCardNo = long.TryParse(cardNoInp, out long cardNo);
