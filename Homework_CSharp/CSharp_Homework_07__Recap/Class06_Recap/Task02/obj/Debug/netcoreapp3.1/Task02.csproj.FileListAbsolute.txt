@@ -1,0 +1,13 @@
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\bin\Debug\netcoreapp3.1\Task02.exe
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\bin\Debug\netcoreapp3.1\Task02.deps.json
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\bin\Debug\netcoreapp3.1\Task02.runtimeconfig.json
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\bin\Debug\netcoreapp3.1\Task02.runtimeconfig.dev.json
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\bin\Debug\netcoreapp3.1\Task02.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\bin\Debug\netcoreapp3.1\Task02.pdb
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\obj\Debug\netcoreapp3.1\Task02.csprojAssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\obj\Debug\netcoreapp3.1\Task02.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\obj\Debug\netcoreapp3.1\Task02.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\obj\Debug\netcoreapp3.1\Task02.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\obj\Debug\netcoreapp3.1\Task02.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\obj\Debug\netcoreapp3.1\Task02.pdb
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_ClassExercises\CSharp_Class_06__Recap\Class06_Recap\Task02\obj\Debug\netcoreapp3.1\Task02.genruntimeconfig.cache
