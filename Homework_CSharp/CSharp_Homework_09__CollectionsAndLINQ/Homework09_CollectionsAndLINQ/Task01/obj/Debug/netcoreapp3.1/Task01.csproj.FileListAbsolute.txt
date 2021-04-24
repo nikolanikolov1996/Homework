@@ -1,0 +1,13 @@
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\obj\Debug\netcoreapp3.1\Task01.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\obj\Debug\netcoreapp3.1\Task01.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\obj\Debug\netcoreapp3.1\Task01.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\bin\Debug\netcoreapp3.1\Task01.exe
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\bin\Debug\netcoreapp3.1\Task01.deps.json
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\bin\Debug\netcoreapp3.1\Task01.runtimeconfig.json
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\bin\Debug\netcoreapp3.1\Task01.runtimeconfig.dev.json
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\bin\Debug\netcoreapp3.1\Task01.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\bin\Debug\netcoreapp3.1\Task01.pdb
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\obj\Debug\netcoreapp3.1\Task01.csprojAssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\obj\Debug\netcoreapp3.1\Task01.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\obj\Debug\netcoreapp3.1\Task01.pdb
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_09__CollectionsAndLINQ\Homework09_CollectionsAndLINQ\Task01\obj\Debug\netcoreapp3.1\Task01.genruntimeconfig.cache
