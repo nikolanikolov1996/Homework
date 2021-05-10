@@ -1,0 +1,9 @@
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMAEntities\bin\Debug\netcoreapp3.1\AMAEntities.deps.json
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMAEntities\bin\Debug\netcoreapp3.1\AMAEntities.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMAEntities\bin\Debug\netcoreapp3.1\AMAEntities.pdb
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMAEntities\obj\Debug\netcoreapp3.1\AMAEntities.csprojAssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMAEntities\obj\Debug\netcoreapp3.1\AMAEntities.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMAEntities\obj\Debug\netcoreapp3.1\AMAEntities.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMAEntities\obj\Debug\netcoreapp3.1\AMAEntities.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMAEntities\obj\Debug\netcoreapp3.1\AMAEntities.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMAEntities\obj\Debug\netcoreapp3.1\AMAEntities.pdb

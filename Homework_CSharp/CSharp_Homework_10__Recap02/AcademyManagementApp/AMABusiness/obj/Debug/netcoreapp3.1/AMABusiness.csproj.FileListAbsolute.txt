@@ -1,0 +1,12 @@
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMABusiness\bin\Debug\netcoreapp3.1\AMABusiness.deps.json
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMABusiness\bin\Debug\netcoreapp3.1\AMABusiness.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMABusiness\bin\Debug\netcoreapp3.1\AMABusiness.pdb
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMABusiness\bin\Debug\netcoreapp3.1\AMAEntities.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMABusiness\bin\Debug\netcoreapp3.1\AMAEntities.pdb
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMABusiness\obj\Debug\netcoreapp3.1\AMABusiness.csprojAssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMABusiness\obj\Debug\netcoreapp3.1\AMABusiness.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMABusiness\obj\Debug\netcoreapp3.1\AMABusiness.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMABusiness\obj\Debug\netcoreapp3.1\AMABusiness.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMABusiness\obj\Debug\netcoreapp3.1\AMABusiness.csproj.CopyComplete
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMABusiness\obj\Debug\netcoreapp3.1\AMABusiness.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\CSharp\CSharp_Homework\CSharp_Homework_10__Recap02\AcademyManagementApp\AMABusiness\obj\Debug\netcoreapp3.1\AMABusiness.pdb

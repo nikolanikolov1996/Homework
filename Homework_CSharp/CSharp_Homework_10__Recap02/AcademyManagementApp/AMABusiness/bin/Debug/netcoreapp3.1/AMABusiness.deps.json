@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AMABusiness/1.0.0": {
+        "dependencies": {
+          "AMAEntities": "1.0.0"
+        },
+        "runtime": {
+          "AMABusiness.dll": {}
+        }
+      },
+      "AMAEntities/1.0.0": {
+        "runtime": {
+          "AMAEntities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AMABusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AMAEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
