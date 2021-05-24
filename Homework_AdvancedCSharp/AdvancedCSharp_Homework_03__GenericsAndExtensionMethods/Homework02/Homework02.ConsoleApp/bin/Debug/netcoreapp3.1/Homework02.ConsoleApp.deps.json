@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Homework02.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Homework02.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Homework02.ConsoleApp.dll": {}
+        }
+      },
+      "Homework02.Domain/1.0.0": {
+        "runtime": {
+          "Homework02.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework02.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Homework02.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

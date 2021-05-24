@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\AdvancedCSharp\\AdvancedCSharp_Homework\\AdvancedCSharp_Homework_01__AbstractClassesAndInterfaces\\Homework\\Homework01.Domain\\Homework01.Domain.csproj": {}
+    "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\HomeworkSEDC2021\\Homework_AdvancedCSharp\\AdvancedCSharp_Homework_01__AbstractClassesAndInterfaces\\Homework\\Homework01.Domain\\Homework01.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\AdvancedCSharp\\AdvancedCSharp_Homework\\AdvancedCSharp_Homework_01__AbstractClassesAndInterfaces\\Homework\\Homework01.Domain\\Homework01.Domain.csproj": {
+    "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\HomeworkSEDC2021\\Homework_AdvancedCSharp\\AdvancedCSharp_Homework_01__AbstractClassesAndInterfaces\\Homework\\Homework01.Domain\\Homework01.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\AdvancedCSharp\\AdvancedCSharp_Homework\\AdvancedCSharp_Homework_01__AbstractClassesAndInterfaces\\Homework\\Homework01.Domain\\Homework01.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\HomeworkSEDC2021\\Homework_AdvancedCSharp\\AdvancedCSharp_Homework_01__AbstractClassesAndInterfaces\\Homework\\Homework01.Domain\\Homework01.Domain.csproj",
         "projectName": "Homework01.Domain",
-        "projectPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\AdvancedCSharp\\AdvancedCSharp_Homework\\AdvancedCSharp_Homework_01__AbstractClassesAndInterfaces\\Homework\\Homework01.Domain\\Homework01.Domain.csproj",
+        "projectPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\HomeworkSEDC2021\\Homework_AdvancedCSharp\\AdvancedCSharp_Homework_01__AbstractClassesAndInterfaces\\Homework\\Homework01.Domain\\Homework01.Domain.csproj",
         "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\AdvancedCSharp\\AdvancedCSharp_Homework\\AdvancedCSharp_Homework_01__AbstractClassesAndInterfaces\\Homework\\Homework01.Domain\\obj\\",
+        "outputPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\HomeworkSEDC2021\\Homework_AdvancedCSharp\\AdvancedCSharp_Homework_01__AbstractClassesAndInterfaces\\Homework\\Homework01.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
